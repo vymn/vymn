@@ -31,5 +31,5 @@ Software Engineer with extensive experience working with various software develo
 <br />
 
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,kotlin,java,python,vue,nodejs,git,tailwindcss,dart,js,bootstrap,firebase,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,kotlin,java,python,vue,nodejs,git,tailwindcss,dart,js,bootstrap,firebase,linux,vscode,unreal,postman,github,gitlab,pytorch,androidstudio,eclipse,netbeans)](https://skillicons.dev)
 

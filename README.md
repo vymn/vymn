@@ -28,8 +28,7 @@ Software Engineer with extensive experience working with various software develo
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=vymn&show_icons=true" alt="vymn" /></div>
 </pre>
 </pre>
-```md
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-```

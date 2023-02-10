@@ -20,9 +20,9 @@ Software Engineer with extensive experience working with various software develo
 - 💬 [<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vymn&layout=compact&hide=html" alt="vymn" /></div>](https://www.reddit.com/user/vymn2862)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vymn/)
 -->
-<!-- ![zendy199x's github stats](https://github-readme-stats.vercel.app/api?username=vymn&theme=merko&show_icons=true) -->
+<!-- ![ github stats](https://github-readme-stats.vercel.app/api?username=vymn&theme=merko&show_icons=true) -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vymn&theme=cobalt)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vymn&theme=midnight-purple)
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vymn&layout=compact&hide=html&theme=midnight-purple" alt="vymn" /></div>
 <br />

@@ -27,4 +27,5 @@ Software Engineer with extensive experience working with various software develo
 <br />
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=vymn&show_icons=true" alt="vymn" /></div>
 </pre>
-https://skillicons.dev/icons?i=flutter,kotlin,java,python,vue,nodejs,git,tailwindcss,dart
+<div>
+https://skillicons.dev/icons?i=flutter,kotlin,java,python,vue,nodejs,git,tailwindcss,dart</div>

@@ -34,10 +34,15 @@
 # TOP LANG
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vymn&hide=html&layout=campot&theme=midnight-purple" alt="vymn" /></div>
-<br />
-<br />
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=vymn&show_icons=true&theme=midnight-purple" alt="vymn" /></div>
 
+
+
+
+<br />
+<br />
+<!--
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=vymn&show_icons=true&theme=midnight-purple" alt="vymn" /></div>
+-->
 <br />
 <br />
 

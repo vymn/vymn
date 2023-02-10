@@ -14,8 +14,8 @@
                      { }      vymn mohvmd svlih.
 </pre>
 # Hi I'm Ayman Mohammed 👋
-a Software Engineer with extensive experience working with various software development areas.
-18feel free to checkout my repos, enjoy your Journey ^_^.
+## A Software Engineer with extensive experience working with various software development areas.
+Feel free to checkout my repos, enjoy your Journey ^_^.
 <!-- ### Check out my social medias: -->
 <!--
 - 💬 [<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vymn&layout=compact&hide=html" alt="vymn" /></div>](https://www.reddit.com/user/vymn2862)

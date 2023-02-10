@@ -29,5 +29,7 @@ Software Engineer with extensive experience working with various software develo
 </pre>
 </pre>
 ```md
-https://skillicons.dev/icons?i=flutter,kotlin,java,python,vue,nodejs,git,tailwindcss,dart
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ```

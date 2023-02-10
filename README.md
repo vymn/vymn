@@ -18,8 +18,8 @@ I'm android frontend developer and AI researcher, I work with [flutter](https://
 
 <!-- ### Check out my social medias: -->
 
-<!-- - 💬 [reddit](https://www.reddit.com/user/vymn2862)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vymn-mohvmd-b38829206/) -->
+- 💬 [reddit](https://www.reddit.com/user/vymn2862)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vymn/)
 
 <!-- ![zendy199x's github stats](https://github-readme-stats.vercel.app/api?username=vymn&theme=merko&show_icons=true) -->
 

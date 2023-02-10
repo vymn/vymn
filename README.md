@@ -25,9 +25,9 @@ Software Engineer with extensive experience working with various software develo
 
 # You Do the MATH!
 
-<div>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vymn&theme=midnight-purple)
-</div>
+
 <br />
 
 # TOP LANG

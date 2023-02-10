@@ -22,7 +22,7 @@ Software Engineer with extensive experience working with various software develo
 -->
 <!-- ![ github stats](https://github-readme-stats.vercel.app/api?username=vymn&theme=merko&show_icons=true) -->
 <br />
-## You Do the MATH!
+# You Do the MATH!
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vymn&theme=midnight-purple)
 <br />

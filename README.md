@@ -25,7 +25,7 @@ Software Engineer with extensive experience working with various software develo
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vymn&layout=compact&hide=html" alt="vymn" /></div>
 <br />
 <br />
-<div><img align="center" src="[https://github-readme-stats.vercel.app/api?username=vymn&show_icons=true](https://skillicons.dev/icons?i=flutter,kotlin,java,python,vue,nodejs,git,tailwindcss,dart,js,bootstrap,firebase,linux,vscode,unreal,postman,github,gitlab,pytorch,androidstudio,eclipse,netbeans)" alt="vymn" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=vymn&show_icons=true" alt="vymn" /></div>
 
 <br />
 <br />

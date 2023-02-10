@@ -40,7 +40,7 @@ Software Engineer with extensive experience working with various software develo
 <br />
 <br />
 
-# DEVSTACK
+# TECH STACK
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,kotlin,java,python,vue,nodejs,git,tailwindcss,dart,js,bootstrap,firebase,linux,vscode,unreal,postman,github,gitlab,pytorch,androidstudio,eclipse,netbeans)](https://skillicons.dev)
 

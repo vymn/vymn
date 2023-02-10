@@ -22,7 +22,7 @@ Software Engineer with extensive experience working with various software develo
 -->
 <!-- ![zendy199x's github stats](https://github-readme-stats.vercel.app/api?username=vymn&theme=merko&show_icons=true) -->
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vymn&layout=compact&hide=html?theme=midnight-purple" alt="vymn" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vymn&layout=compact&hide=html&theme=midnight-purple" alt="vymn" /></div>
 <br />
 <br />
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=vymn&show_icons=true" alt="vymn" /></div>

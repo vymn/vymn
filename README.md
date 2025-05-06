@@ -5,7 +5,7 @@
   Architecting scalable solutions with elegance, performance, and purpose.
 </p>
 
-<hr/>
+
 
 ---
 
